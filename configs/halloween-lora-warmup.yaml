@@ -14,7 +14,7 @@ config:
       save_every: 100
       max_step_saves_to_keep: 100
     datasets:
-    - folder_path: /path/to/flux3-klein-halloween-lora/halloween
+    - folder_path: /path/to/flux3-klein-lora-guide/halloween
       caption_ext: txt
       resolution:
       - 1024

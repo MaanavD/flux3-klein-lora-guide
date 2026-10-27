@@ -1,0 +1,1324 @@
+{
+  "records": [
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "base",
+      "schedule": "base",
+      "step": null,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 0.0,
+      "file": "base/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "constant2k",
+      "schedule": "constant",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-2000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "constant4k",
+      "schedule": "constant",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant/step-4000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "warmup2k",
+      "schedule": "constant_with_warmup",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-2000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "warmup4k",
+      "schedule": "constant_with_warmup",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "constant_with_warmup/step-4000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "cosine2k",
+      "schedule": "cosine",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-2000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "cosine4k",
+      "schedule": "cosine",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "cosine/step-4000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "linear2k",
+      "schedule": "linear",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-2000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "linear4k",
+      "schedule": "linear",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "linear/step-4000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "lineardecay2k",
+      "schedule": "lineardecay",
+      "step": 2000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-2000/seed-907_prompt-5.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-23_prompt-0.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-23_prompt-1.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-23_prompt-2.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-23_prompt-3.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-23_prompt-4.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 23,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-23_prompt-5.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 0,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting \"A Merry Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-907_prompt-0.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 1,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a girl in a party dress bobbing for apples in a wooden tub, with a black cat watching from a chair and a glowing jack-o-lantern on the table beside a bowl of nuts. The card has the clearly readable greeting \"Halloween Greetings\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-907_prompt-1.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 2,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow's arms and corn shocks behind him. The card has the clearly readable greeting \"Best Wishes for Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-907_prompt-2.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 3,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat with an arched back standing on a garden fence under a crescent moon, with a grinning jack-o-lantern on the gatepost and bats flying past. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-907_prompt-3.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 4,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of a young woman in a long dress holding a candle in front of a mirror at midnight, looking for the face of her future sweetheart, with a jack-o-lantern and an apple on the dresser. The card has the clearly readable greeting \"Halloween Fortunes\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-907_prompt-4.jpg"
+    },
+    {
+      "arm": "lineardecay4k",
+      "schedule": "lineardecay",
+      "step": 4000,
+      "seed": 907,
+      "prompt_index": 5,
+      "prompt": "vqx, an old Halloween greeting card with a hand-drawn illustration of two children dressed as a ghost and a little devil knocking at a cottage door lit by a jack-o-lantern on the step, with an owl in the bare tree beside the path. The card has the clearly readable greeting \"Happy Halloween\" across the top.",
+      "strength": 1.0,
+      "file": "lineardecay/step-4000/seed-907_prompt-5.jpg"
+    }
+  ]
+}

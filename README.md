@@ -11,10 +11,16 @@ scripts/               make_card.py
 halloween_lora.ipynb   training notebook
 ukiyoe/                a second dataset: 156 ukiyo-e prints with captions
 space/                 the Hugging Face Space app
+samples/               comparison cards and training previews
+LICENSE                MIT license for code and configs
 ```
 
 - `halloween-lora-cosine.yaml`: 4,000 steps, cosine learning rate schedule.
 - `halloween-lora-warmup.yaml`: the same, with a constant schedule after 200 warmup steps.
+
+## Samples
+
+The [samples](samples/README.md) include the final card comparison at steps 2,000 and 4,000, plus the base model. There are also training previews from cosine and constant_with_warmup, my two favorite runs. The prompts and seeds are included.
 
 ## Train
 
@@ -32,9 +38,11 @@ python run.py configs/halloween-lora-cosine.yaml
 
 49 images come from The Public Domain Review and 16 from Wikimedia Commons. `halloween/metadata.csv` lists the source page and license for each image.
 
+Code and configs use the [MIT license](LICENSE). The images keep their own licenses, as listed in `halloween/metadata.csv` and the `ukiyoe/` docs.
+
 ## Make a card
 
-My favorites were cosine and constant_with_warmup, both at step 2,000. Both checkpoints from the guide are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-halloween-lora/releases/tag/checkpoints-2000). Run this from the AI Toolkit root, with its venv active.
+My favorites were cosine and constant_with_warmup, both at step 2,000. Both checkpoints from the guide are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-lora-guide/releases/tag/checkpoints-2000). Run this from the AI Toolkit root, with its venv active.
 
 ```bash
 python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.safetensors \
