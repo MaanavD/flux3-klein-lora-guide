@@ -42,7 +42,7 @@ Code and configs use the [MIT license](LICENSE). The images keep their own licen
 
 ## Make a card
 
-My favorites were cosine and constant_with_warmup, both at step 2,000. Both checkpoints from the guide are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-lora-guide/releases/tag/checkpoints-2000). Run this from the AI Toolkit root, with its venv active.
+My favorites were cosine and constant_with_warmup, both at step 2,000. Both checkpoints from the guide are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-lora-guide/releases/tag/checkpoints-2000). They're also on Hugging Face as [maanavdalal/flux3-klein-halloween-lora](https://huggingface.co/maanavdalal/flux3-klein-halloween-lora). Run this from the AI Toolkit root, with its venv active.
 
 ```bash
 python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.safetensors \
