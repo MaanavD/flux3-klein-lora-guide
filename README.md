@@ -52,7 +52,7 @@ python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.s
 
 The script makes a 1024 x 1024 card with 50 steps, guidance 3.5 and LoRA strength 1. Change `--strength`, `--seed` or `--steps` to taste.
 
-Or make one in the browser with the [Hugging Face Space](https://huggingface.co/spaces/black-forest-labs/flux3-klein-halloween-card). Its code is in `space/`.
+Or make one in the browser with the [Hugging Face Space](https://huggingface.co/spaces/maanavdalal/flux3-klein-halloween-card). Its code is in `space/`.
 
 ## Make your own
 
