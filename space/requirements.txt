@@ -8,6 +8,6 @@ peft==0.19.1
 accelerate==1.15.0
 huggingface-hub==1.33.0
 safetensors==0.8.0
-Pillow==12.3.0
+Pillow==13.0.0
 numpy==2.5.4
 openai==3.39.0
