@@ -5,20 +5,24 @@ import spaces  # Import before any CUDA initialization for ZeroGPU.
 import gradio as gr
 
 from pipeline import (
-    ASTRONAUTS, CHECKPOINTS, PROMPT_PREFIX, PUP_URL, SCARECROW,
-    build_pipeline, generate_image, resolve_prompt, upsample, validate_settings,
+    ASTRONAUTS, CHECKPOINTS, PROMPT_PREFIX, SCARECROW,
+    build_pipeline, build_upsampler, generate_image, resolve_prompt, upsample, validate_settings,
 )
 
 UI_ONLY = os.environ.get("HALLOWEEN_UI_ONLY") == "1"
 # ZeroGPU requires CUDA placement at module startup. Mac review stays CPU-only.
-PIPE = build_pipeline() if os.environ.get("SPACE_ID") and not UI_ONLY else None
+ON_SPACE = os.environ.get("SPACE_ID") and not UI_ONLY
+PIPE = build_pipeline() if ON_SPACE else None
+UPSAMPLER = build_upsampler() if ON_SPACE else None
 
 
-@spaces.GPU(duration=120)
-def render(prompt, seed, strength, checkpoint):
+@spaces.GPU(duration=150)
+def render(prompt, subject, expand, seed, strength, checkpoint):
     if PIPE is None:
         raise gr.Error("You can try the controls here. Run on a CUDA GPU to make a card.")
-    return generate_image(PIPE, prompt, seed, strength, checkpoint)
+    if expand:
+        prompt = upsample(UPSAMPLER, subject)
+    return generate_image(PIPE, prompt, seed, strength, checkpoint), prompt
 
 
 def make_card(subject, expand, full_prompt, seed, strength, checkpoint):
@@ -29,14 +33,7 @@ def make_card(subject, expand, full_prompt, seed, strength, checkpoint):
         seed, strength = validate_settings(seed, strength, checkpoint)
     except ValueError as error:
         raise gr.Error(str(error)) from error
-    # Expand outside the GPU slot, as the official Klein Space does.
-    if expand and PUP_URL and not full_prompt.strip():
-        try:
-            prompt = upsample(subject)
-        except Exception as error:
-            print(f"Upsampling failed: {error}")
-            raise gr.Error("The prompt upsampler is unavailable. Try again, or turn off Expand my prompt.") from error
-    return render(prompt, seed, strength, checkpoint), prompt
+    return render(prompt, subject, expand and not full_prompt.strip(), seed, strength, checkpoint)
 
 
 with gr.Blocks(title="Make a Halloween card") as demo:
@@ -44,7 +41,7 @@ with gr.Blocks(title="Make a Halloween card") as demo:
     with gr.Row():
         with gr.Column():
             subject = gr.Textbox(label="Your scene", placeholder="A black cat watching the moon from a pumpkin patch", lines=4)
-            expand = gr.Checkbox(label="Expand my prompt", value=True, visible=bool(PUP_URL))
+            expand = gr.Checkbox(label="Expand my prompt", value=True)
             with gr.Accordion("Advanced", open=False):
                 full_prompt = gr.Textbox(label="Full prompt", placeholder="Use your own prompt here, including vqx. Leave blank to use your scene with the card prompt.", lines=5)
                 seed = gr.Number(label="Seed", value=23, precision=0, minimum=0, maximum=2**32 - 1)
@@ -69,5 +66,5 @@ with gr.Blocks(title="Make a Halloween card") as demo:
 
 if __name__ == "__main__":
     if not UI_ONLY and PIPE is None:
-        PIPE = build_pipeline()
+        PIPE, UPSAMPLER = build_pipeline(), build_upsampler()
     demo.queue(max_size=8).launch()

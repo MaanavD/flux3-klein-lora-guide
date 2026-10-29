@@ -22,7 +22,7 @@ Describe a scene and FLUX 3 Image Klein, with a LoRA trained on Halloween postca
 
 The app puts your scene into `vqx, an old Halloween greeting card with a hand-drawn illustration of <scene>`. `vqx` is the trigger word. Under Advanced you can write your own full prompt instead (include `vqx` yourself), and change the seed (default 23), LoRA strength (0 to 1.5, default 1) and checkpoint (`constant_with_warmup` or `cosine`, both from step 2,000).
 
-When a prompt upsampler is configured, "Expand my prompt" sends your scene to [the Klein prompt upsampler](https://huggingface.co/black-forest-labs/flux-3-image-klein-pup) first, asking for a flat scan of an old greeting card, and adds `vqx` back to the caption it returns.
+"Expand my prompt" sends your scene to [the Klein prompt upsampler](https://huggingface.co/black-forest-labs/flux-3-image-klein-pup) first, asking for a flat scan of an old greeting card, and adds `vqx` back to the caption it returns.
 
 Each card is 1024 x 1024, 50 steps, guidance 3.5.
 

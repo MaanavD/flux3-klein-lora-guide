@@ -10,4 +10,3 @@ huggingface-hub==1.33.0
 safetensors==0.8.0
 Pillow==12.3.0
 numpy==2.5.4
-openai==3.39.0
