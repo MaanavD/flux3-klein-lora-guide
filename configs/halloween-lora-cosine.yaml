@@ -58,10 +58,6 @@ config:
       - prompt: vqx, a small friendly robot trick-or-treating with a pumpkin candy
           bucket
         seed: 42
-      - prompt: vqx, a giant humanoid mecha standing beside a country cottage at night
-        seed: 42
-      - prompt: vqx, a person using a laptop and a smartphone at a desk beside a window
-        seed: 42
       - prompt: an illustrated postcard of a family sitting beside a Christmas tree
           opening presents
         seed: 42
