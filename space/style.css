@@ -1,0 +1,136 @@
+.gradio-container {
+  max-width: 1120px !important;
+  margin: 0 auto !important;
+  padding: 40px 24px 24px !important;
+}
+
+#hero {
+  gap: 0;
+  margin-bottom: 28px;
+  max-width: 44rem;
+}
+
+#hero h1 {
+  font-family: "Fraunces", Georgia, serif;
+  font-variation-settings: "SOFT" 100, "WONK" 1;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-size: clamp(2.5rem, 6vw, 4.25rem);
+  line-height: 0.98;
+  letter-spacing: -0.01em;
+  color: #F2C14E;
+  margin: 0 0 14px;
+}
+
+#hero p {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: #F0E4C9;
+  margin: 0;
+}
+
+#main {
+  gap: 32px;
+  align-items: flex-start;
+}
+
+#controls {
+  gap: 14px;
+}
+
+#scenes {
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+#scenes .scene {
+  flex: 0 1 auto !important;
+  min-width: 0 !important;
+  width: auto !important;
+  padding: 6px 14px !important;
+  background: #1E1830 !important;
+  border: 1px solid #433A5E !important;
+  border-radius: 999px !important;
+  color: #F0E4C9 !important;
+  font-weight: 500;
+}
+
+#scenes .scene:hover {
+  border-color: #F2C14E !important;
+}
+
+#make {
+  font-family: "Fraunces", Georgia, serif;
+  font-variation-settings: "SOFT" 100, "WONK" 0;
+  font-weight: 800;
+  font-size: 1.25rem;
+  letter-spacing: 0.01em;
+}
+
+#controls .note {
+  margin: -4px 0 0;
+  font-size: 0.875rem;
+  color: #B8AECB;
+}
+
+/* The finished card is printed on stock with a paper margin, like the originals. */
+#postcard {
+  background: #F0E4C9 !important;
+  border: none !important;
+  padding: 14px !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 0 #C9B78F, 0 28px 60px -18px rgba(5, 2, 12, 0.85);
+}
+
+#postcard .image-container,
+#postcard img {
+  border-radius: 2px;
+}
+
+#used textarea {
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+#about {
+  max-width: 44rem;
+  margin-top: 36px;
+  padding-top: 20px;
+  border-top: 1px solid #433A5E;
+  color: #B8AECB;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+#about a {
+  padding: 0 !important;
+  margin: 0 !important;
+  color: #F2C14E;
+  text-underline-offset: 3px;
+}
+
+button:focus-visible,
+a:focus-visible,
+textarea:focus-visible,
+input:focus-visible {
+  outline: 2px solid #F2C14E !important;
+  outline-offset: 2px;
+}
+
+@media (max-width: 640px) {
+  .gradio-container {
+    padding: 24px 14px 16px !important;
+  }
+
+  #hero {
+    margin-bottom: 18px;
+  }
+
+  #main {
+    gap: 20px;
+  }
+
+  #postcard {
+    padding: 9px !important;
+  }
+}

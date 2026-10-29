@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import math
 import os
 from pathlib import Path
@@ -31,8 +32,12 @@ CARD_REQUEST = "an old Halloween greeting card with a hand-drawn illustration of
 PROMPT_PREFIX = TRIGGER + CARD_REQUEST
 # Without "flat scan", the upsampler photographs the card on a tabletop and hides the LoRA's look.
 UPSAMPLE_REQUEST = "a flat, straight-on archival scan of an old Halloween greeting card filling the frame, with a hand-drawn illustration of "
-# The FLUX 3 Image Klein prompt upsampler. It runs in the same ZeroGPU slot as Klein.
+# The FLUX 3 Image Klein prompt upsampler. With PUP_URL set it runs on an Inference
+# Endpoint like the official Klein Space; otherwise it shares the ZeroGPU slot with Klein.
 PUP_REPO = "black-forest-labs/flux-3-image-klein-pup"
+PUP_URL = os.environ.get("PUP_URL", "")
+PUP_TOKEN = os.environ.get("PUP_TOKEN", "")
+WITCH = PROMPT_PREFIX + 'a witch in a pointed hat flying on a broomstick across a full moon, with a black cat riding behind her and a sleeping village of crooked rooftops below. Bats circle the church steeple. The card has the clearly readable greeting "A Merry Halloween" across the top.'
 SCARECROW = PROMPT_PREFIX + 'a scarecrow standing in a pumpkin patch at dusk under a large harvest moon, with an owl on the fence post, black crows on the scarecrow\'s arms and corn shocks behind him. The card has the clearly readable greeting "Best Wishes for Halloween" across the top.'
 ASTRONAUTS = PROMPT_PREFIX + 'two astronauts sharing lunch at a table inside a lunar outpost, with Earth visible through a round window. A jack-o-lantern sits on the table beside their food and a small paper bat decorates the window. The card has the clearly readable greeting "Have a Happy Halloween" across the top.'
 
@@ -65,6 +70,23 @@ def upsample(upsampler, subject: str) -> str:
 
     model, processor = upsampler
     return TRIGGER + upsample_prompt(model, processor, UPSAMPLE_REQUEST + subject.strip(), max_new_tokens=1024)
+
+
+def upsample_endpoint(subject: str) -> str:
+    """The same request as upsample(), sent to the endpoint at PUP_URL."""
+    from openai import OpenAI
+
+    system = json.loads(Path(hf_hub_download(PUP_REPO, "system_prompts.json", token=os.getenv("HF_TOKEN"))).read_text())["t2i"]
+    client = OpenAI(base_url=PUP_URL.rstrip("/") + "/v1", api_key=PUP_TOKEN, timeout=60)
+    completion = client.chat.completions.create(
+        model=PUP_REPO,
+        messages=[{"role": "system", "content": system}, {"role": "user", "content": UPSAMPLE_REQUEST + subject.strip()}],
+        max_tokens=1024, temperature=0.0, extra_body={"chat_template_kwargs": {"enable_thinking": False}},
+    )
+    caption = (completion.choices[0].message.content or "").strip()
+    if not caption:
+        raise RuntimeError("The prompt upsampler returned a blank caption.")
+    return TRIGGER + caption
 
 
 def validate_settings(seed, strength, checkpoint):
