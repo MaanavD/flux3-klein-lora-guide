@@ -1,0 +1,55 @@
+job: extension
+config:
+  name: ukiyocolor
+  process:
+  - type: diffusion_trainer
+    training_folder: /path/to/output
+    device: cuda:0
+    network:
+      type: lora
+      linear: 32
+      linear_alpha: 32
+    save:
+      dtype: bf16
+      save_every: 100
+      max_step_saves_to_keep: 100
+    datasets:
+    - folder_path: /path/to/flux3-klein-lora-guide/ukiyoe_color
+      caption_ext: txt
+      resolution:
+      - 1024
+      cache_latents_to_disk: true
+    train:
+      batch_size: 1
+      steps: 4000
+      lr: 1e-4
+      optimizer: adamw
+      optimizer_params:
+        betas:
+        - 0.9
+        - 0.95
+      lr_scheduler: cosine
+      noise_scheduler: flowmatch
+      gradient_checkpointing: true
+      dtype: bf16
+      timestep_type: shift
+    model:
+      name_or_path: black-forest-labs/flux-3-image-klein-base
+      arch: flux3
+    sample:
+      sampler: flowmatch
+      sample_every: 100
+      width: 1024
+      height: 1024
+      seed: 42
+      walk_seed: false
+      guidance_scale: 3.5
+      sample_steps: 30
+      neg: ''
+      samples:
+      - prompt: a tiger crouching in a bamboo forest
+        seed: 42
+      - prompt: ukiyocolor, a tiger crouching in a bamboo forest
+        seed: 42
+      - prompt: ukiyocolor, an astronaut walking on the moon with earth in the sky
+        seed: 42
